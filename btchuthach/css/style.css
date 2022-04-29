@@ -1,0 +1,55 @@
+.contaner{
+    width: 500px;
+    height: auto;
+}
+.maintext{
+    border: 1px black solid;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+
+}
+.non{
+    margin-top: 10px;
+    text-align: center;
+}
+.non-text-left{
+    background-color: red;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.non-text-right{
+    background-color: blue;
+    height: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.non1{
+    height: auto;
+    width: 49%;
+    float: left;
+}
+.non2{
+    
+}
+.non3{
+    height: auto;
+    width: 49%;
+    float: right;
+}
+.p{
+    text-align: center;
+}
+.non4{
+    margin-top: 5px;
+    background-color: gray;
+    float: left;
+    width: 49%;
+}
+.non5{
+    margin-top: 5px;
+    background-color: gray;
+    float: right;
+    width: 49%;
+}
